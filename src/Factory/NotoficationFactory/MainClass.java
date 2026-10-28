@@ -1,4 +1,4 @@
-package Factory;
+package Factory.NotoficationFactory;
 
 public class MainClass {
     public static void main(String [] args) {

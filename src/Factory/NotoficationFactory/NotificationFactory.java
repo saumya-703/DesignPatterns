@@ -1,4 +1,4 @@
-package Factory;
+package Factory.NotoficationFactory;
 
 public class NotificationFactory {
     public NotificationService factory(String val){

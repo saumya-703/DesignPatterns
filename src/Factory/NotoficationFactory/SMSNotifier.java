@@ -1,4 +1,4 @@
-package Factory;
+package Factory.NotoficationFactory;
 
 public class SMSNotifier implements NotificationService{
     @Override
